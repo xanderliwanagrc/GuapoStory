@@ -10,3 +10,6 @@ One day, hew as invited to join a key project.
 
 #Chapter 4: Leadership
 Steve was now a Team Leader. It was harder than he thought.
+
+#Chapter 5: Prod Issue
+A critical prod issue occurred.  Everyone looked to Steve for the solution.
