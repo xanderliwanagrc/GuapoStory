@@ -11,5 +11,3 @@ One day, hew as invited to join a key project.
 #Chapter 3: The Promotion
 
 The boss decided to have a talk with him.
-
-#Branched
